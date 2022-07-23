@@ -89,7 +89,7 @@ body {
     box-shadow: 0  8px  16px  0 rgba (0,0,0,0.2);
 }
 
-.highlightedSession {
+.highlightLink {
     padding-top: 1px;
     padding-bottom: 1px;
     background:  #d6c5d3;
@@ -101,7 +101,7 @@ body {
     border-color: DeepPink;
 }
 
-.highlightedSession:hover {
+.highlightLink:hover {
     box-shadow: 0  8px  16px  0 rgba (0,0,0,0.2);
 }
 
