@@ -90,6 +90,7 @@ body {
 }
 
 .highlightLink {
+    width: 50%;
     padding-top: 1px;
     padding-bottom: 1px;
     background:  #d6c5d3;
