@@ -90,6 +90,7 @@ body {
 }
 
 .highlightLink {
+    margin: auto;
     max-width: 50%;
     padding-top: 1px;
     padding-bottom: 1px;
