@@ -90,6 +90,9 @@ body {
 }
 
 .highlightLink {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     max-width: 50%;
     padding-top: 1px;
     padding-bottom: 1px;
