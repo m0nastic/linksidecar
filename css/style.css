@@ -109,9 +109,6 @@ body {
 .container {
     padding-left: 10px;
     padding-right: 10px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
 h2, h3, h4, h5, h6 {
